@@ -1,6 +1,6 @@
 # welcome to my github!
 
-**`developer`** **`programming`** **`cloud`** **`bigdata`**
+**`developer`** **`programming back-end`** **`CI/CD`** **`Cloud & DevOps`**
 
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
